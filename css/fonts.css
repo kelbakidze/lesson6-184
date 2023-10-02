@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Open Sans Condensed';
+    src: url('../fonts/OpenSansCondensed-Regular.eot');
+    src: url('../fonts/OpenSansCondensed-Regular.eot') format('embedded-opentype'),
+        url('../fonts/OpenSansCondensed-Regular.woff2') format('woff2'),
+        url('../fonts/OpenSansCondensed-Regular.woff') format('woff'),
+        url('../fonts/OpenSansCondensed-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
